@@ -4,7 +4,7 @@ designer: Mathieu Gabiot
 builder: Ginger Coons, Wendy Van Wynsberghe
 category: side table
 tags: wood
-creation_date: 2015-16-12
+creation_date: 2015-12-16
 contributors:
 derived_from:
 realisation_place: Madrid
